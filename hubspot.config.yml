@@ -1,0 +1,14 @@
+defaultPortal: jvazquez
+portals:
+  - name: jvazquez
+    portalId: 21629062
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CNec587DMBIJAA0AAAAA4A0DGIaRqAog2s3rFCju6QwyFFeh9hei8D40uYFqfUrNdbmZt47_OjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhSpl0UUfA4Rs6RaeY71ELgL927jpUoDbmExUgBaAA
+        expiresAt: '2022-11-02T19:38:06.298Z'
+    personalAccessKey: >-
+      CiQ1MTE0MWYyZC1mNjU3LTQ3YWMtYWFjYi0xZjkyNTgwNjFkY2YQhpGoChjazesUKhkABeaRgoNIsf9pvcEidX2m9-0Xh584OQ0tSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
